@@ -1,4 +1,4 @@
-### Hi there 👋
+### Just my bad, terrible, no-good site 😄👋
 
 <!--
 **bugbeard/bugbeard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
